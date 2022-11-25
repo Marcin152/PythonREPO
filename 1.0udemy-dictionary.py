@@ -11,7 +11,7 @@ CountryLeaders['DE'] = 'Frank-Steinmeier'
 
 #print(CountryLeaders.setdefault('FR','Macron')) #ukazuje wartość i dodaje do słownika
 
-#print(CountryLeaders.get('RU')) #ukazuje wartość jeśli jest i nie dodaje do słownika
+##print(CountryLeaders.get('RU')) #ukazuje wartość jeśli jest i nie dodaje do słownikaa
 
 NewLeaders = {'RU': 'Putin', 'DE': 'Schulz'}
 #print(NewLeaders)

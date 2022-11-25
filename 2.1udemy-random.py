@@ -2,7 +2,7 @@ import random
 
 # print("one random number:",random.randint(1,100)) # liczba całkowita od 1 do 100
 #
-# print("choosing ranndom number from a range", random.choice(range(1,100)))
+# print("choosing random number from a range", random.choice(range(1,100)))
 #
 # print("choosing a random number from a range - easier", random.randrange(1,100))
 #
