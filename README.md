@@ -1,9 +1,3 @@
-git  PythonREPO
-My code in python 
+# This I proper Readme.md file 
 
-I try to push my local repo into remote 
-
-<<<<<<< HEAD
-=======
-asdasdasdasdasdasdasdasg
->>>>>>> 027dcfb (initial commit)
+## I update here my work from tutorial and try to get good in it.

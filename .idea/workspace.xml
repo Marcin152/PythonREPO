@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aefaca51-5e0f-43dd-b719-f47697dd6c92" name="Changes" comment="commist message with IF">
-      <change afterPath="$PROJECT_DIR$/2.8udemy_functionV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.8udemy_functionV3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.8udemy_functionV4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.9udemy_switch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0udemy-dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.0udemy-dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1udemy-random.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.1udemy-random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.8udemy-function.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.8udemy-function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.8udemy-function_LAB.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.9udemy_functionV2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0udemy_functioV3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
