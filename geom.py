@@ -1,22 +1,5 @@
-# def WeekDayInDeutsch(dayNumber=0):
-#
-#     days = {
-#         0: 'der Montag',
-#         1: 'der Dienstag',
-#         2: 'der Mittwoch',
-#         3: 'der Donnerstag',
-#         4: 'der Freitag',
-#         5: 'der Samstag',
-#         6: 'der Sonntag'
-#
-#     }
-#
-#     return days.get(dayNumber, 'error')
-# print(WeekDayInDeutsch())
-# print(WeekDayInDeutsch(1))
-# print('-------------------')
-
-#LAB
+import math
+import geom
 
 def GiveGeomSeqElement(a1=2, factor=3,index=4):
     #a1 = first element
@@ -61,5 +44,4 @@ def GiveSumOfNElemetsGeomSeq(a1 = 2, factor = 3, n = 4):
     # n = number of string
     result = a1*(1-pow(factor,n)) / (1-factor)
     print(result)
-
 
