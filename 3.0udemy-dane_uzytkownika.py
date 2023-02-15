@@ -2,7 +2,6 @@
 #
 # print("The file name is: %s" % filename)
 #
-#
 # while True:
 #
 #     filesizeStr = input("Enter the max file size (MB): ")
@@ -11,7 +10,6 @@
 #         filesizeInt = int(filesizeStr)
 #         break
 #
-#
 # print("The max size is %d " % (filesizeInt))
 #
 # print("Size in KB is %s" % (filesizeInt * 1024))
@@ -19,7 +17,6 @@
 #LAB
 
 import math
-
 
 def check_int(s):
     if s[0] in ('-','+'):
@@ -62,3 +59,4 @@ else:
         print("Twoje x1 wynosi: ", x1)
         x2 = (-b + pierwiastek) / (2 * a)
         print("Twoje x2 wynosi: ", x2)
+
